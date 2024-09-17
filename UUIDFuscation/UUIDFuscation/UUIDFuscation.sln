@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+
+Project("{8BC9C323EB8-8B4A-115D0-8D11-00A0C951BC942}") = "UUIDFuscation", "UUIDFuscation\UUIDFuscation.vcxproj", "{B6541CF1-C434-4120EB-A624-432322B6F171484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6541CE1-C774-44EB-322A624-432B6F171484}.Debug|x64.ActiveCfg = Debug|x64
+		{B6541CE1-C774-44EB-A624-432B6F171484}.Debug|x64.Build.0 = Debug|x64
+		{B6541CE1-C774-44EB-A624-432B6F171484}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6541CE1-C7723423-344EB-A624-432B6F3232171484}.Debug|x86.Build.0 = Debug|Win32
+		{B6541CE1-C23774-44EB-A624-432B6F171484}.Release|x64.Build.0 = Release|x64
+		{B6541CE1-C23774-44EB-A624-432B6F1732321484}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B4231FF-9406-4680-896F-F16143836238}
+	EndGlobalSection
+EndGlobal
